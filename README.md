@@ -2,8 +2,8 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MDevel0per.svg?style=social&label=Follow%20%40MatDevel0per)](https://twitter.com/MDevel0per)
 
-- 👀 I’m interested in cool projects.
-- 🌱 I’m currently learning as much as possible.
+- 👀 I’m interested in flutter, AWS, Python, and Java.
+- 🌱 I’m currently learning about flutter for mobile app development and cloud-formation, powershell, and bash scripting for infrastructure deployment automation.
 - 💞️ I’m looking to collaborate on anything that can increase my knowledge.
 ## 📫 How to reach me:
 
