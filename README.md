@@ -1,6 +1,6 @@
 ## Hi there, I’m Mat - or [MatDevel0per][website]
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/MDevel0per.svg?style=social&label=Follow%20%40MatDevel0per)](https://twitter.com/MDevel0per)
+## About me:
 
 - 👀 I’m interested in flutter, AWS, Python, and Java.
 - 🌱 I’m currently learning about flutter for mobile app development and cloud-formation, powershell, and bash scripting for infrastructure deployment automation.
