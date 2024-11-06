@@ -2,7 +2,7 @@
 
 ## About me:
 ![](https://visitor-badge.glitch.me/badge?page_id=MatDevel0per)
-- 👀 I’m interested in flutter, AWS, Python, and Java.
+- 👀 I’m interested in Golang, AWS, Python, and Java.
 - 🌱 I’m currently learning about flutter for mobile app development and cloud-formation, powershell, and bash scripting for infrastructure deployment automation.
 - 💞️ I’m looking to collaborate on anything that can increase my knowledge.
 
